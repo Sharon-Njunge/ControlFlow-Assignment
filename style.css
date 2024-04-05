@@ -1,0 +1,104 @@
+.left-nav{
+    display: flex;
+}
+/* .top-nav{
+    display: flex;
+    justify-content: space-around;
+} */
+
+.centre-nav{
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    background-image: url(./images/white.jpg);
+    width: 500px;
+    height: 500px;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.price1{
+    display: flex;
+    font-size: 35px;
+}
+.price2{
+    display: flex;
+    font-size: 35px;
+}
+.landing-page{
+    display: flex;
+    padding-left: 100px;
+    gap: 100px;
+}
+.vessel1{
+    display: flex;
+}
+.vessel2{
+    display: flex;
+}
+.vessel3{
+    display: flex;
+}
+.below-landing{
+    display: flex;
+    padding-left: 100px;
+    gap: 100px;
+}
+.nav-centre{
+    text-align: center;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+}
+.centre-images{
+    display: flex;
+    justify-content: space-around;
+}
+.images-left{
+    display: flex;
+}
+.images-right{
+    display: flex;
+}
+.text-centre{
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+}
+.image-text{
+    padding-left: 100px;
+    display: flex;
+    gap: 180px;
+}
+.buttons{
+    display: flex;
+}
+h5{
+    font-size: 35px;
+}
+.text-below{
+    text-align: center;
+}.buttons{
+    text-align: center;
+    padding-left: 800px;
+    gap: 50px;
+}
+.centre-images1{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.centre-images2{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.centre-images3{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: green;
+}
