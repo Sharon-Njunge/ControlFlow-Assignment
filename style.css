@@ -102,3 +102,23 @@ h5{
 button{
     background-color: green;
 }
+.pic-text{
+    padding: 100px;
+    display: flex;
+   gap: 200px;
+}
+.Blog{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.latest{
+    text-align: center;
+}
+.foot-pics{
+    display: flex;
+    justify-content: space-around;
+}
+.top-foot{
+    text-align: center;
+}
